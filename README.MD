@@ -6,3 +6,5 @@ Why you would want to use this program:
 - ...
 - boredom
 
+All the images will be downloaded to the `image_dump` folder
+> Note: `image_dump` folder will be created automatically if not present.
